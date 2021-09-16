@@ -1,0 +1,8 @@
+[package]
+name = "fhe-mlir"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+concrete = "0.1.0"
+itertools = "0.9.0"
